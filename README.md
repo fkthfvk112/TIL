@@ -14,7 +14,7 @@ bolg: https://doompa.tistory.com/
 + Cotlin
   + [코틀린 배열과 리스트](https://doompa.tistory.com/267?category=1018988)
   + [코틀린 변수와 형변환](https://doompa.tistory.com/266)
-+Android Studio
++ Android Studio
 
 ------------------------
 ## Data Structures
