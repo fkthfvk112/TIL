@@ -12,6 +12,7 @@ bolg: https://doompa.tistory.com/
 ## APP
 ------------------------
 ## Data Structures
++ 배열
 ------------------------
 ## Algorithm 
 ------------------------
