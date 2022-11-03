@@ -4,18 +4,16 @@
 bolg: https://doompa.tistory.com/
 
 ## WEB
-
++ ---------------------
+## APP
+------------------------
+## Data Structures
 + Array
   + [배열 정리](https://doompa.tistory.com/283?category=979915)
 + Vector
   + [벡터 정리](https://doompa.tistory.com/286?category=979915)
 + List
   + [리스트 정리](https://doompa.tistory.com/287)
-+ ---------------------
-## APP
-------------------------
-## Data Structures
-+ 배열
 ------------------------
 ## Algorithm 
 ------------------------
