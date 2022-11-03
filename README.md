@@ -3,5 +3,11 @@
 
 ## WEB
 -------------------------
-## Algorithm or Data Structures
+## APP
 ------------------------
+## Data Structures
+------------------------
+## Algorithm 
+------------------------
+## Problem Solving
+-----------------------
