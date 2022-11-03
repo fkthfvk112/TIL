@@ -4,8 +4,8 @@
 --------------------
 
 ## WEB
-+ Html
-+ Css
++ Html, Css
+  + [태그 및 속성](https://doompa.tistory.com/170)
 + JavaScript
 + Express
 + MongoDB
