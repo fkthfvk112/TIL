@@ -9,6 +9,8 @@
 + JavaScript
 + Express
 + MongoDB
++ Clone Coding
++ Personal Project
 ---------------------
 ## APP
 + Cotlin
