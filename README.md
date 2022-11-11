@@ -8,7 +8,7 @@
   + [태그 및 속성](https://doompa.tistory.com/170)
 + JavaScript
   + [var/let/const의 차이](https://doompa.tistory.com/288)
-  + [데이터 타입들](https://doompa.tistory.com/290)
+  + [데이터 타입](https://doompa.tistory.com/290)
   + [객체(computed properties)](https://doompa.tistory.com/291)
 + Express
 + MongoDB
