@@ -35,3 +35,12 @@
 ------------------------
 ## Problem Solving
 -----------------------
+## etc
++ Linux
+  + [쉘이란?](https://doompa.tistory.com/259)
+  + [리눅스의 폴더구조 경로](https://doompa.tistory.com/261)
+  + [리눅스 리다이렉션](https://doompa.tistory.com/258)
+  + [파일 생성(cat명령어)](https://doompa.tistory.com/260)
+  + [깃 정리와 사용](https://doompa.tistory.com/269)
+  + [깃 사용(원격 저장소업로드)](https://doompa.tistory.com/292)
+  
