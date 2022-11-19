@@ -2,7 +2,12 @@
 배운 내용을 기록하고 재학습합니다
 
 --------------------
-
+## WEB Project
+  + [Yelp Camp](https://github.com/fkthfvk112/YelpCamp/tree/main)
+  + miniProject
+    + [randomCocktatilMaker](https://github.com/fkthfvk112/randomCocktatilMaker)
+    + [expirationDateManager](https://github.com/fkthfvk112/expirationDateManager)
+---------------------
 ## WEB
 + Html, Css
   + [태그 및 속성](https://doompa.tistory.com/170)
@@ -12,9 +17,6 @@
   + [객체(computed properties)](https://doompa.tistory.com/291)
 + Express
 + MongoDB
-+ Clone Coding
-  + [Yelp Camp](https://github.com/fkthfvk112/YelpCamp/tree/main)
-+ Personal Project
 ---------------------
 ## APP
 + Cotlin
