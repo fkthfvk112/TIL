@@ -5,7 +5,7 @@
 ## WEB Project
   + Temp Project
     + [Yelp Camp](https://github.com/fkthfvk112/YelpCamp/tree/main)
-  + miniProject
+  + Mini Project
     + [randomCocktatilMaker](https://github.com/fkthfvk112/randomCocktatilMaker)
     + [expirationDateManager](https://github.com/fkthfvk112/expirationDateManager)
 ---------------------
