@@ -8,6 +8,8 @@
   + Mini Project
     + [randomCocktatilMaker](https://github.com/fkthfvk112/randomCocktatilMaker)
     + [expirationDateManager](https://github.com/fkthfvk112/expirationDateManager)
+  + Web practice
+    + [logIn demo](https://github.com/fkthfvk112/WEB_Practice/tree/main/hashPractice)
 ---------------------
 ## WEB
 + Html, Css
