@@ -9,7 +9,7 @@
     + [randomCocktatilMaker](https://github.com/fkthfvk112/randomCocktatilMaker)
     + [expirationDateManager](https://github.com/fkthfvk112/expirationDateManager)
   + Web practice
-    + [registre/log in/log out_demo](https://github.com/fkthfvk112/WEB_Practice/tree/main/hashPractice)
+    + [register/log in/log out_demo](https://github.com/fkthfvk112/WEB_Practice/tree/main/hashPractice)
 ---------------------
 ## WEB
 + Html, Css
