@@ -46,6 +46,11 @@
 + Data Structure
   + [HW](https://github.com/fkthfvk112/C-_hw)
 -----------------------
+## Software engineering
+  + [응집도, 결합도, 복잡도](https://doompa.tistory.com/302)
+  + [OOD 5대 원칙](https://doompa.tistory.com/303)
+  + [테스팅과 테스팅 기법](https://doompa.tistory.com/297)
+-----------------------
 ## etc
 + Linux
   + [쉘이란?](https://doompa.tistory.com/259)
