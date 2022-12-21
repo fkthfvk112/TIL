@@ -2,9 +2,10 @@
 배운 내용을 기록하고 재학습합니다
 
 --------------------
-## WEB Project
+## Project
   + Temp Project
     + [Yelp Camp](https://github.com/fkthfvk112/YelpCamp/tree/main)
+    + [Running Alarm](https://github.com/fkthfvk112/embedded_system/tree/main/TempProject)
   + Mini Project
     + [randomCocktatilMaker](https://github.com/fkthfvk112/randomCocktatilMaker)
     + [expirationDateManager](https://github.com/fkthfvk112/expirationDateManager)
