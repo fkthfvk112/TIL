@@ -59,4 +59,5 @@
   + [파일 생성(cat명령어)](https://doompa.tistory.com/260)
   + [깃 정리와 사용](https://doompa.tistory.com/269)
   + [깃 사용(원격 저장소업로드)](https://doompa.tistory.com/292)
++ [Embedded System](https://github.com/fkthfvk112/embedded_system)
   
