@@ -4,11 +4,11 @@
 --------------------
 ## Project
   + Temp Project
-    + [Yelp Camp](https://github.com/fkthfvk112/YelpCamp/tree/main)
-    + [Running Alarm](https://github.com/fkthfvk112/embedded_system/tree/main/TempProject)
+    + [Yelp Camp/web](https://github.com/fkthfvk112/YelpCamp/tree/main)
+    + [Running Alarm/embedded system](https://github.com/fkthfvk112/embedded_system/tree/main/TempProject)
   + Mini Project
-    + [randomCocktatilMaker](https://github.com/fkthfvk112/randomCocktatilMaker)
-    + [expirationDateManager](https://github.com/fkthfvk112/expirationDateManager)
+    + [randomCocktatilMaker/web](https://github.com/fkthfvk112/randomCocktatilMaker)
+    + [expirationDateManager/web](https://github.com/fkthfvk112/expirationDateManager)
   + Web practice
     + [register/log in/log out_demo](https://github.com/fkthfvk112/WEB_Practice/tree/main/hashPractice)
 ---------------------
