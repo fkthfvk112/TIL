@@ -51,6 +51,7 @@
   + [응집도, 결합도, 복잡도](https://doompa.tistory.com/302)
   + [OOD 5대 원칙](https://doompa.tistory.com/303)
   + [테스팅과 테스팅 기법](https://doompa.tistory.com/297)
+  + [소프트웨어 품질 보증](https://doompa.tistory.com/304)
 -----------------------
 ## etc
 + Linux
