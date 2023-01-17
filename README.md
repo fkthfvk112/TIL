@@ -19,6 +19,7 @@
   + [var/let/const의 차이](https://doompa.tistory.com/288)
   + [데이터 타입](https://doompa.tistory.com/290)
   + [객체(computed properties)](https://doompa.tistory.com/291)
+  + [객체 내 특정 값 찾기](https://doompa.tistory.com/310)
 + Node.JS
   + [express 시작하기 (node.js 다운로드, npm, express)](https://doompa.tistory.com/308)
   + [express + mongoDB 데이터 연동//CRUD작업](https://doompa.tistory.com/309)
@@ -63,4 +64,6 @@
   + [깃 정리와 사용](https://doompa.tistory.com/269)
   + [깃 사용(원격 저장소업로드)](https://doompa.tistory.com/292)
 + [Embedded System](https://github.com/fkthfvk112/embedded_system)
++ Python
+  + [numpy라이브러리 정리](https://doompa.tistory.com/312)
   
