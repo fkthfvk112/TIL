@@ -66,4 +66,6 @@
 + [Embedded System](https://github.com/fkthfvk112/embedded_system)
 + Python
   + [numpy라이브러리 정리](https://doompa.tistory.com/312)
+  + [이동평균선 돌파 후 추이 확인](https://github.com/fkthfvk112/quant/tree/main/%EC%9D%B4%ED%8F%89%EC%84%A0%2C%20%EA%B1%B0%EB%9E%98%EB%9F%89%20%EB%8F%8C%ED%8C%8C%20%ED%9B%84%20%EC%B6%94%EC%9D%B4)
+  + [VAA공격형 전략 자산배분 도우미](https://github.com/fkthfvk112/quant/tree/main/VAA%EA%B3%B5%EA%B2%A9%ED%98%95%EC%A0%84%EB%9E%B5)
   
