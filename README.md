@@ -1,5 +1,5 @@
 # Today I Learned (TIL)
-배운 내용을 기록하고 재학습합니다
+ 내용을 기록하고 재학습합니다
 
 --------------------
 ## Project
@@ -23,6 +23,7 @@
 + Node.JS
   + [express 시작하기 (node.js 다운로드, npm, express)](https://doompa.tistory.com/308)
   + [express + mongoDB 데이터 연동//CRUD작업](https://doompa.tistory.com/309)
+  + [bootstrap + mongoDB + vanillaJS](https://doompa.tistory.com/325)
 ---------------------
 ## APP
 + Cotlin
