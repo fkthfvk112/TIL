@@ -6,6 +6,7 @@
   + Temp Project
     + [Yelp Camp/web](https://github.com/fkthfvk112/YelpCamp/tree/main)
     + [Running Alarm/embedded system](https://github.com/fkthfvk112/embedded_system/tree/main/TempProject)
+    + [YammyPusanUniv](https://github.com/fkthfvk112/YammyPusanUniv)
   + Mini Project
     + [randomCocktatilMaker/web](https://github.com/fkthfvk112/randomCocktatilMaker)
     + [expirationDateManager/web](https://github.com/fkthfvk112/expirationDateManager)
