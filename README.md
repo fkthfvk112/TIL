@@ -57,7 +57,7 @@
 ## Problem Solving
 + Data Structure
   + [HW](https://github.com/fkthfvk112/C-_hw)
-+ Bacjoon
++ Baekjoon
   + [입출력](https://github.com/fkthfvk112/BJ_ps/tree/main/%EC%9E%85%EC%B6%9C%EB%A0%A5)
   + [DP](https://github.com/fkthfvk112/BJ_ps/tree/main/DP)
 -----------------------
