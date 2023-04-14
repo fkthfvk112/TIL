@@ -54,6 +54,7 @@
   + [그래프 자료구조 정리 및 구현(BFS, DFS)](https://doompa.tistory.com/296)
 ------------------------
 ## Algorithm 
+ + 분할정복와 시간복잡도(https://doompa.tistory.com/358)
 ------------------------
 ## Problem Solving
 + Data Structure
@@ -61,6 +62,7 @@
 + Baekjoon
   + [입출력](https://github.com/fkthfvk112/BJ_ps/tree/main/%EC%9E%85%EC%B6%9C%EB%A0%A5)
   + [DP](https://github.com/fkthfvk112/BJ_ps/tree/main/DP)
+  + [분할정복](https://github.com/fkthfvk112/BJ_ps/tree/main/divide_conquer)
 -----------------------
 ## Software engineering
   + [응집도, 결합도, 복잡도](https://doompa.tistory.com/302)
