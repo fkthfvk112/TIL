@@ -58,7 +58,7 @@
   + [그래프 자료구조 정리 및 구현(BFS, DFS)](https://doompa.tistory.com/296)
 ------------------------
 ## Algorithm 
- + 분할정복와 시간복잡도(https://doompa.tistory.com/358)
+ + [분할정복과 시간복잡도](https://doompa.tistory.com/358)
 ------------------------
 ## Problem Solving
 + Data Structure
