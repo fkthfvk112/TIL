@@ -35,7 +35,7 @@
     + [카카오맵 API 사용](https://doompa.tistory.com/349)
     + [Cloydinary API 사용 사진 삽입](https://doompa.tistory.com/352)
     + [React-이미지 연동](https://doompa.tistory.com/357)
-    + [React 페이지 프론트 작업 및 authorization](https://doompa.tistory.com/359)
+    + [React 페이지 프론트 작업](https://doompa.tistory.com/359)
     
  + Database
   + MongoDB
