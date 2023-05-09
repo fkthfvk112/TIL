@@ -74,6 +74,7 @@
   + [입출력](https://github.com/fkthfvk112/BJ_ps/tree/main/%EC%9E%85%EC%B6%9C%EB%A0%A5)
   + [DP](https://github.com/fkthfvk112/BJ_ps/tree/main/DP)
   + [분할정복](https://github.com/fkthfvk112/BJ_ps/tree/main/divide_conquer)
+  + [백트래킹](https://github.com/fkthfvk112/BJ_ps/tree/main/backTracking)
 -----------------------
 ## Software engineering
   + [응집도, 결합도, 복잡도](https://doompa.tistory.com/302)
