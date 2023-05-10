@@ -18,6 +18,7 @@
 + Html, Css
   + [태그 및 속성](https://doompa.tistory.com/170)
   + [시멘틱 태그](https://doompa.tistory.com/363)
+  + [CSS 선택자](https://doompa.tistory.com/365)
 + JavaScript
   + [var/let/const의 차이](https://doompa.tistory.com/288)
   + [데이터 타입](https://doompa.tistory.com/290)
