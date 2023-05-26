@@ -11,6 +11,7 @@
   + Mini Project
     + [randomCocktatilMaker/web](https://github.com/fkthfvk112/randomCocktatilMaker)
     + [expirationDateManager/web](https://github.com/fkthfvk112/expirationDateManager)
+    + [mazeGame](https://github.com/fkthfvk112/mazeGame)
   + Web practice
     + [register/log in/log out_demo](https://github.com/fkthfvk112/WEB_Practice/tree/main/hashPractice)
 ---------------------
