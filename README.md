@@ -6,7 +6,7 @@
   + Temp Project
     + [Yelp Camp/web](https://github.com/fkthfvk112/YelpCamp/tree/main)
     + [Running Alarm/embedded system](https://github.com/fkthfvk112/embedded_system/tree/main/TempProject)
-    + [ddi checker](https://ddicheker.fly.dev/)
+    + [ddi checker](https://ddicheker.fly.dev/](https://github.com/fkthfvk112/DDI_WEB)
     + [Cafebara](https://github.com/fkthfvk112/YammyPusanUniv)
   + Mini Project
     + [randomCocktatilMaker/web](https://github.com/fkthfvk112/randomCocktatilMaker)
