@@ -26,6 +26,7 @@
   + [객체(computed properties)](https://doompa.tistory.com/291)
   + [객체 내 특정 값 찾기](https://doompa.tistory.com/310)
   + [String 타입과 객체](https://doompa.tistory.com/364)
+  + [JQuery 사용법](https://doompa.tistory.com/366)
 + Node.JS
   + YammyPusanUnivProject
     + [express 시작하기 (node.js 다운로드, npm, express)](https://doompa.tistory.com/308)
