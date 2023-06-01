@@ -27,6 +27,9 @@
   + [객체 내 특정 값 찾기](https://doompa.tistory.com/310)
   + [String 타입과 객체](https://doompa.tistory.com/364)
   + [JQuery 사용법](https://doompa.tistory.com/366)
++ TypeScripit
+  + [타입 스크립트 데이터타입](https://jinseong134.notion.site/6d89d6ab17ae4c9db9bed8fa4e6424ca)
+  + [타입 스크립트 개발환경](https://jinseong134.notion.site/05c724dac82f42c0947780ba663c271d)
 + Node.JS
   + YammyPusanUnivProject
     + [express 시작하기 (node.js 다운로드, npm, express)](https://doompa.tistory.com/308)
@@ -43,6 +46,10 @@
     + [React 페이지 프론트 작업](https://doompa.tistory.com/359)
     
  + Database
+   + SQL
+     + [PS](https://jinseong134.notion.site/3dcf38830aec454f911085fa16728100) 
+     + [자료형](https://jinseong134.notion.site/SQL-77eb4f35607c4a3abb72744dcb0c79d7)
+     + [SELECT](https://jinseong134.notion.site/SELECT-e1c29ba1a0ba42be802c92185b65acec)
    + MongoDB
      + [몽고DB란?](https://doompa.tistory.com/360)
      + [몽고DB CRUD](https://doompa.tistory.com/361?category=1104031)
