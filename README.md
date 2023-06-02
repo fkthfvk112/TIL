@@ -27,6 +27,7 @@
   + [객체 내 특정 값 찾기](https://doompa.tistory.com/310)
   + [String 타입과 객체](https://doompa.tistory.com/364)
   + [JQuery 사용법](https://doompa.tistory.com/366)
+  + [Sprea와 Rest](https://doompa.tistory.com/367)
 + TypeScripit
   + [타입 스크립트 데이터타입](https://jinseong134.notion.site/6d89d6ab17ae4c9db9bed8fa4e6424ca)
   + [타입 스크립트 개발환경](https://jinseong134.notion.site/05c724dac82f42c0947780ba663c271d)
