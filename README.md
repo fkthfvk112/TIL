@@ -34,6 +34,7 @@
 + Java
   + [문자열](https://jinseong134.notion.site/01b9b7571c6444528dfd2ce3ca771968)
   + [파일 입출력](https://jinseong134.notion.site/41ff9bec951c4150909086294e720de2)
+  + [싱글톤 패턴 연습](https://github.com/fkthfvk112/AccountBook)
 + Node.JS
   + YammyPusanUnivProject
     + [express 시작하기 (node.js 다운로드, npm, express)](https://doompa.tistory.com/308)
