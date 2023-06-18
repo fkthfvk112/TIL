@@ -32,9 +32,12 @@
   + [타입 스크립트 데이터타입](https://jinseong134.notion.site/6d89d6ab17ae4c9db9bed8fa4e6424ca)
   + [타입 스크립트 개발환경](https://jinseong134.notion.site/05c724dac82f42c0947780ba663c271d)
 + Java
-  + [문자열](https://jinseong134.notion.site/01b9b7571c6444528dfd2ce3ca771968)
+  + [문자열](https://doompa.tistory.com/371)
   + [파일 입출력](https://jinseong134.notion.site/41ff9bec951c4150909086294e720de2)
   + [싱글톤 패턴 연습](https://github.com/fkthfvk112/AccountBook)
+  + [자바 형변환](https://doompa.tistory.com/374)
+  + [자바의 클래스/생성자/접근제어자/객체 배열](https://doompa.tistory.com/376)
+  + [자바의 상속](https://doompa.tistory.com/377)
 + Node.JS
   + YammyPusanUnivProject
     + [express 시작하기 (node.js 다운로드, npm, express)](https://doompa.tistory.com/308)
