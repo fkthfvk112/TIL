@@ -9,6 +9,7 @@
     + [ddi checker](https://github.com/fkthfvk112/DDI_WEB)
     + [Cafebara](https://github.com/fkthfvk112/YammyPusanUniv)
   + Mini Project
+    + [일정 관리 게시판](https://github.com/fkthfvk112/jspBbsCal)
     + [randomCocktatilMaker/web](https://github.com/fkthfvk112/randomCocktatilMaker)
     + [expirationDateManager/web](https://github.com/fkthfvk112/expirationDateManager)
     + [mazeGame](https://github.com/fkthfvk112/mazeGame)
