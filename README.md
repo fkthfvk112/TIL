@@ -61,8 +61,11 @@
    + [Vite로 리액트 시작하기](https://doompa.tistory.com/368)
    + [리액트의 props](https://doompa.tistory.com/369)
    + [배열 요소 컴포넌트화](https://doompa.tistory.com/370)
+   + [리덕스 개요](https://doompa.tistory.com/400)
    + [리덕스 상태관리](https://doompa.tistory.com/395)
-   + 
+   + [여러 인풋값 하나의 객체로 관리](https://doompa.tistory.com/399)
+   + [리액트 필수 훅](https://doompa.tistory.com/manage/posts/)
+   + [리액트 라우터](https://doompa.tistory.com/402)
  + Database
    + SQL
      + [PS](https://jinseong134.notion.site/3dcf38830aec454f911085fa16728100) 
