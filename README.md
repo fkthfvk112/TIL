@@ -12,9 +12,9 @@
 
   + Mini Project
     + [일정 관리 게시판](https://github.com/fkthfvk112/jspBbsCal)
-    + [randomCocktatilMaker/web](https://github.com/fkthfvk112/randomCocktatilMaker)
-    + [expirationDateManager/web](https://github.com/fkthfvk112/expirationDateManager)
-    + [mazeGame](https://github.com/fkthfvk112/mazeGame)
+    + [미로 게임](https://github.com/fkthfvk112/mazeGame)
+    + [폭탄주 비율 생성기](https://github.com/fkthfvk112/randomCocktatilMaker)
+    +     
   + Web practice
     + [register/log in/log out_demo](https://github.com/fkthfvk112/WEB_Practice/tree/main/hashPractice)
 ---------------------
