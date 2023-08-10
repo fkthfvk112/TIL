@@ -59,7 +59,9 @@
     
  + React
    + 예제 코드들
-     +  ㄻㅇㄴ
+     +  [라우터](https://github.com/fkthfvk112/react_practice/tree/main/router_practice)
+     +  [리덕스](https://github.com/fkthfvk112/react_practice/tree/main/redux-practice)
+     +  [카카오 로그인](https://github.com/fkthfvk112/react_practice/tree/main/kakao-login-react)
    + [Vite로 리액트 시작하기](https://doompa.tistory.com/368)
    + [리액트의 props](https://doompa.tistory.com/369)
    + [배열 요소 컴포넌트화](https://doompa.tistory.com/370)
