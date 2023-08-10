@@ -4,13 +4,11 @@
 --------------------
 ## Project
   + Temp Project
-    + Express
-      + [Cafebara](https://github.com/fkthfvk112/YammyPusanUniv)
-      + [ddi checker](https://github.com/fkthfvk112/DDI_WEB)
+      + [병원 예약관리](https://github.com/fkthfvk112/hospital_reservation)
+      + [카페 등록 관리](https://github.com/fkthfvk112/YammyPusanUniv)
+      + [약물 교차 복용 부작용 확인](https://github.com/fkthfvk112/DDI_WEB)
       + [Yelp Camp/web](https://github.com/fkthfvk112/YelpCamp/tree/main)
-
-    + Etc
-      + [Running Alarm/embedded system](https://github.com/fkthfvk112/embedded_system/tree/main/TempProject)
+      + [달리는 알람/embedded system](https://github.com/fkthfvk112/embedded_system/tree/main/TempProject)
 
   + Mini Project
     + [일정 관리 게시판](https://github.com/fkthfvk112/jspBbsCal)
