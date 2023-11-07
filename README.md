@@ -120,6 +120,14 @@
   + [OOD 5대 원칙](https://doompa.tistory.com/303)
   + [테스팅과 테스팅 기법](https://doompa.tistory.com/297)
   + [소프트웨어 품질 보증](https://doompa.tistory.com/304)
++ Network
+  + [컴퓨터 네트워크의 구성](https://doompa.tistory.com/408)
+  + [연결 지향과 비연결 지향 데이터 전송](https://doompa.tistory.com/409)
+  + [패킷 교환 방식과 회신 교환 방식의 비교](https://doompa.tistory.com/410)
+  + [HTTP에 대하여](https://doompa.tistory.com/411)
+  + [소켓에 대하여](https://doompa.tistory.com/412)
+  + [IP에 대하여](https://doompa.tistory.com/413)
+  + [TCP와 TCP 세그먼트의 구조](https://doompa.tistory.com/414)
 -----------------------
 ## etc
 + Linux
