@@ -42,6 +42,7 @@
   + [자바 형변환](https://doompa.tistory.com/374)
   + [자바의 클래스/생성자/접근제어자/객체 배열](https://doompa.tistory.com/376)
   + [자바의 상속](https://doompa.tistory.com/377)
+  + [스트림 사용](https://doompa.tistory.com/416#comment15148525)
 + Spring
   + [스프링의 특징](https://doompa.tistory.com/387)
   + [스프링의 어노테이션](https://doompa.tistory.com/388)
