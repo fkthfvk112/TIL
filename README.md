@@ -20,6 +20,8 @@
     + [register/log in/log out_demo](https://github.com/fkthfvk112/WEB_Practice/tree/main/hashPractice)
 ---------------------
 ## WEB
++ Paradigm
+  + [OOP](https://github.com/fkthfvk112/OOP)
 + Html, Css
   + [태그 및 속성](https://doompa.tistory.com/170)
   + [시멘틱 태그](https://doompa.tistory.com/363)
